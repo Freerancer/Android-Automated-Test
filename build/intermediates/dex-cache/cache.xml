@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.1.0_3bf5671e721d584483c2a89b285206a0241c8da4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.1.0_36168005fddae54bf04d1e0656bb76f09804556d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.8.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.8.1_c6f5b9eac6fa31910b5884273b1316d5439334c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.8.1_2d72a39389746e7d6887d32a1a1b9b341ca0fdbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/exploded-aar/com.android.support/transition/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-transition-26.1.0_d2caa669bf05c9adb0759be00f2af369a5dbb89d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/exploded-aar/android.arch.lifecycle/runtime/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/android.arch.lifecycle-runtime-1.0.0_205c61bb5ead9cc81543dd260b7133dca44f134b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.8.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/com.jakewharton-butterknife-8.8.1_c6f5b9eac6fa31910b5884273b1316d5439334c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.1.0_381df9a8182047f415fd067c860689fe2a2054da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.1.0_adfc9090a35f4381378271d230d35c4747852590.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.1.0_fa7a5ed49f1ff30e6381a399e7c19b144f9c2b37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.1.0_831ddf6974e46efa81a0f33f2ed2f8bb3baea812.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.1.0_478bb09a51cf60212028d9672b7c2a1d7cc9b7c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-design-26.1.0_7a4b380db2eab1289e39e1d262e9c240d044a35c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.8.1_2d72a39389746e7d6887d32a1a1b9b341ca0fdbe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/common-1.0.0_4e2d3112446a928ecf47a12cfa45ef342d121cf8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.1.0_bbd165de8d5e3bb2ddd631f8fba39a380e4c58aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.1.0_d09523726057836ed2ffe97d4df70443972a0aa7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.1.0_5541fa7458949dc2d5783317060a556974f94a59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_89b791ae91f5b6e7a8cf0cc370c5c0972c2568d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pisitchai/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/pisitchai/Documents/materiallogindemo-master/app/build/intermediates/pre-dexed/debug/common-1.0.0_aa1fde072b82a3afe3edd6ecd9049dbbc6df0b4b.jar" />
+    </item>
+
+</items>
