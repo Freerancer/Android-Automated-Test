@@ -38,6 +38,8 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
     //junit
     androidTestImplementation 'androidx.test.ext:junit:1.1.0'
+    // Set this dependency if you want to use Hamcrest matching
+    testImplementation 'org.hamcrest:hamcrest-library:1.3'
 }
 repositories {
     mavenCentral()
