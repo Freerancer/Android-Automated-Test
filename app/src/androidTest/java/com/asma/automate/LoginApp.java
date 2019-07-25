@@ -95,7 +95,7 @@ public class LoginApp {
     public void loginFailPasswordNotExist() {
         //Login wrong password
         onView(withId(R.id.input_email)).perform(typeText("Asma@gmail.com"), closeSoftKeyboard());
-        onView(withId(R.id.input_password)).perform(typeText("123456"), closeSoftKeyboard());
+        onView(withId(R.id.input_password)).perform(typeText("456789"), closeSoftKeyboard());
         onView(withId(R.id.btn_login)).perform(click());
 
         //Verify Msg Error
